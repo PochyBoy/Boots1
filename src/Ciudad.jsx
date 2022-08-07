@@ -1,0 +1,1 @@
+import {ciutats} from 'ciutats.json'
