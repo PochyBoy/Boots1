@@ -2,6 +2,7 @@
 import React from 'react'
 import Thumbs from './Thumbs'
 import Fotos from './Fotos'
+import Ciudad from './Ciudad'
 import './App.css'
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <>
        <Thumbs/>
        <Fotos /> 
+       <Ciudad/>
     </>
   )
 }
